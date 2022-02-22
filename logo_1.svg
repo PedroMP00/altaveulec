@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080">
+	<title>Nuevo proyecto</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 150px;fill: #000000;font-weight: 400;font-family: "Alatsi-Regular", "Alatsi" } 
+	</style>
+	<text id="ALTAVEULEC" style="transform: matrix(1,0,0,1,159.5,592)" >
+		<tspan x="0" y="0" class="t0">A</tspan><tspan  y="0" class="t0">L</tspan><tspan  y="0" class="t0">T</tspan><tspan  y="0" class="t0">A</tspan><tspan  y="0" class="t0">V</tspan><tspan  y="0" class="t0">E</tspan><tspan  y="0" class="t0">U</tspan><tspan  y="0" class="t0">L</tspan><tspan  y="0" class="t0">E</tspan><tspan  y="0" class="t0">C
+</tspan>
+	</text>
+</svg>
